@@ -23,9 +23,29 @@ body{
     font-size: 50px;
     position: relative;
     
-    top: -150px;
+    top: -200px;
 }
-
+.textbox{
+   margin: 5px;
+   width: 100%;
+    position: absolute;
+    top:50vh;
+   
+}
+.textbox p{
+   margin: 5px;
+   text-align: center;
+   color: white;
+   
+}
+#ip2 {
+     
+    border-radius: 25px;
+    border: 2px solid #609;
+    padding: 20px; 
+    width: 200px;
+    height: 15px;    
+}
 
 .area{
     background: #4e54c8;  
